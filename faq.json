@@ -1,9 +1,14 @@
 {
 	"faq": [
 		{
-			"answer": "q",
-			"qno": "w",
-			"question": "e"
+			"answer": "my name is aditya",
+			"qno": "1",
+			"question": "what is your name"
+		},
+		{
+			"answer": "I am from delhi",
+			"qno": "2",
+			"question": "where are you from"
 		}
 	]
 }
