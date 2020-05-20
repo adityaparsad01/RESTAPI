@@ -1,14 +1,19 @@
 {
 	"faq": [
 		{
-			"answer": "my name is aditya",
 			"qno": "1",
-			"question": "what is your name"
+			"question": "what is your name",
+			"question_2": "my name is aditya"
 		},
 		{
-			"answer": "I am from delhi",
 			"qno": "2",
-			"question": "where are you from"
+			"question": "where are you from",
+			"question_2": "I am from delhi"
+		},
+		{
+			"qno": "3",
+			"question": "what you learn",
+			"question_2": "currently I am learning Reactjs."
 		}
 	]
 }
