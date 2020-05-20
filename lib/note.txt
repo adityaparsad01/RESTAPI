@@ -1,0 +1,12 @@
+const SPREAD_SHEET_FAQ = "1FjIb8O79ESXFAR5SV6dLbRUXliJc1lErMmfoSxXqEao";
+const SPREAD_SHEET_TNC = "1D_ZU8ys4GFVgkTYeHXMXZ9IThZOPR3AF8m_-eEap7Uw";
+const SPREAD_SHEET_LINKS = "1Yb2lyoxpcl7wJjuO8VkXRyVUZy5QaTHl3w5Hk2-TkqA";
+const SPREAD_SHEET_DOCTORS = "1JlyWkU1HY0IvobiW47OHtUaW12ox3XBVrrJThHnLIbY";
+
+https://docs.google.com/spreadsheets/d/1FjIb8O79ESXFAR5SV6dLbRUXliJc1lErMmfoSxXqEao/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1JlyWkU1HY0IvobiW47OHtUaW12ox3XBVrrJThHnLIbY/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1Yb2lyoxpcl7wJjuO8VkXRyVUZy5QaTHl3w5Hk2-TkqA/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1D_ZU8ys4GFVgkTYeHXMXZ9IThZOPR3AF8m_-eEap7Uw/edit?usp=sharing

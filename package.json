@@ -1,0 +1,35 @@
+{
+  "name": "econsult-api",
+  "version": "1.0.0",
+  "description": "econsult-api for econsult-website which basically a bridge between google spreadsheets and website",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "drive-db": "^6.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.15",
+    "lodash.where": "^3.1.0",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covid19india/econsult-api.git"
+  },
+  "author": "covid19indiaorg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/covid19india/econsult-api/issues"
+  },
+  "homepage": "https://github.com/covid19india/econsult-api#readme"
+}
