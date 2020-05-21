@@ -22,5 +22,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.github_token }}
           BOT_TOKEN: ${{ secrets.bot_token }}
-#trigger the action
+trigger the action
 #trigger the action by remove this line
