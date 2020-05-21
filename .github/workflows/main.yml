@@ -27,12 +27,12 @@ jobs:
 
       - name: Git Status
         run: git status
-   
+        env:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push changes
 
-        with: 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+         
           
 
 
