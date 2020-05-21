@@ -1,26 +1,66 @@
-name: Sheet to Json Workflow
-
-on:
-  schedule:
-    # every 10 minutes the job will run
-    - cron: "*/10 * * * *"
+name: sheet to json
+on: 
   push:
     branches:
       - master
-
+  schedule:
+    - cron: "0 * * * *"
+    
 jobs:
-  update-json-data:
+  generate-tokyo:
+    name: summarize
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - uses: actions/checkout@v1
-      - name: push
-        run: |
-          bash ./pushthejson
-          echo "the job completed"
-        env:
-          GITHUB_TOKEN: ${{ secrets.github_token }}
-          BOT_TOKEN: ${{ secrets.bot_token }}
-trigger the action
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Generate tokyo/counts.json 
+        run: node index.js
+
+      - name: Git Status
+        run: git status
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
