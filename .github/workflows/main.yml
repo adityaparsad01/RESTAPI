@@ -22,8 +22,8 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - name: Generate tokyo/counts.json 
-        run: node index.js
+      - name: Generate index.js
+        run: node sheet-to-json_generic.js
 
       - name: Git Status
         run: git status
