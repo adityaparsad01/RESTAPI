@@ -30,6 +30,10 @@ jobs:
       - name: Git Status
         run: git status
 
+      - name: Git Pull
+        run: git pull
+
+
       - name: Commit files
         run: |
           git config --local user.email adityaparsad01@gmail.com
