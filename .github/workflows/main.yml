@@ -34,7 +34,7 @@ jobs:
         run: |
           git config --local user.email adityaparsad01@gmail.com
           git config --local user.name "adityaparsad01"
-          git add /home/runner/work/RESTAPI/RESTAPI/faq.json
+          git add .
           git commit -m "file update: json" || exit 0
 
       - name: Push changes
