@@ -24,48 +24,9 @@ jobs:
         
       - name: Generate index.js
         run: node sheet-to-json_generic.js
-
-      - name: Git Status
-        run: git status
             
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.REST_TOKEN }}
-
-
-         
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
