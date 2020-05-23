@@ -4,6 +4,11 @@
 			"linkabout": "Facebook Page",
 			"linkno": "1",
 			"linkvalue": "https://www.facebook.com/pg/payperprice/about/?ref=page_internal"
+		},
+		{
+			"linkabout": "Twitter ",
+			"linkno": "2",
+			"linkvalue": "https://twitter.com/adityaparsad01"
 		}
 	]
 }
