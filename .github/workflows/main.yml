@@ -26,3 +26,7 @@ jobs:
         
       - name: Generate index.js
         run: node sheet-to-json_generic.js
+
+      - name: Git Status
+        run: git status
+
