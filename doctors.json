@@ -2,12 +2,12 @@
 	"doctors": [
 		{
 			"approved1or0": "1",
-			"doyouwishtoprovideconsultationforemergencycasescheckonlyifyouareoff-duty": "1",
-			"email": "1",
-			"emailaddress": "1",
-			"medicalcouncilregistrationnopleaseinputthefullnowithstatemedicalcouncilprefix": "1",
-			"name": "1",
-			"phonenumber": "1",
+			"doyouwishtoprovideconsultationforemergencycasescheckonlyifyouareoff-duty": "Yes",
+			"email": "adityaparsad01@gmail.com",
+			"emailaddress": "adityaparsad01@gmail.com",
+			"medicalcouncilregistrationnopleaseinputthefullnowithstatemedicalcouncilprefix": "MBBS",
+			"name": "Aditya",
+			"phonenumber": "7503345712",
 			"qualifications": "1",
 			"specializationnotmandatory": "1",
 			"state": "1",
