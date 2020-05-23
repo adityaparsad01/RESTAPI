@@ -8,11 +8,11 @@
 			"medicalcouncilregistrationnopleaseinputthefullnowithstatemedicalcouncilprefix": "MBBS",
 			"name": "Aditya",
 			"phonenumber": "7503345712",
-			"qualifications": "1",
-			"specializationnotmandatory": "1",
-			"state": "1",
-			"timestamp": "1",
-			"yourtelegramusername": "1"
+			"qualifications": "MBBS",
+			"specializationnotmandatory": "Skin",
+			"state": "New Delhi",
+			"timestamp": "10/05/2020",
+			"yourtelegramusername": "adityaparsad"
 		}
 	]
 }
