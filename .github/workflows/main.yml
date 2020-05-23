@@ -38,13 +38,12 @@ jobs:
         run: |
           git config --local user.email adityaparsad01@gmail.com
           git config --local user.name "adityaparsad01"
-          git add /home/runner/work/RESTAPI/RESTAPI/faq.json
-          git add /home/runner/work/RESTAPI/RESTAPI/links.json
-          git add /home/runner/work/RESTAPI/RESTAPI/tnc.json
-          git add /home/runner/work/RESTAPI/RESTAPI/doctors.json
+          git add .
           git commit -m "file update: json" || exit 0
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+#          git add /home/runner/work/RESTAPI/RESTAPI/faq.json
