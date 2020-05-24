@@ -1,155 +1,103 @@
 {
 	"tnc": [
 		{
-			"b1-ass": "",
 			"b1-bss": "14922.06127",
-			"esu-06": "",
-			"icsolarpanel": "41.318",
+			"icsolarpanel": "41.32",
 			"updateon": "6/1/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "14936.11878",
-			"esu-06": "",
-			"icsolarpanel": "42.169",
+			"icsolarpanel": "42.17",
 			"updateon": "6/2/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "14949.63298",
-			"esu-06": "",
-			"icsolarpanel": "42.941",
+			"icsolarpanel": "42.94",
 			"updateon": "6/3/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "14962.92941",
-			"esu-06": "",
-			"icsolarpanel": "43.838",
+			"icsolarpanel": "43.84",
 			"updateon": "6/4/2019"
 		},
 		{
-			"_ciyn3": "47.206",
-			"_ckd7g": "48.033",
-			"_clrrx": "48.822",
-			"_cssly": "53.22",
-			"_cu76f": "25099.54841",
-			"_cvlqs": "25106.27629",
-			"_cx0b9": "25119.17432",
-			"_cyevm": "49.63",
-			"_cztg3": "50.368",
-			"_d180g": "51.177",
-			"_d2mkx": "52.171",
-			"_d9ney": "25133.14498",
-			"b1-ass": "46.385",
 			"b1-bss": "14975.71541",
-			"esu-06": "45.504",
-			"icsolarpanel": "44.707",
+			"icsolarpanel": "44.71",
 			"updateon": "6/5/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "14988.67707",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "45.50",
 			"updateon": "6/6/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15000.79049",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "46.39",
 			"updateon": "6/7/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15014.32673",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "47.21",
 			"updateon": "6/8/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15028.33046",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "48.03",
 			"updateon": "6/9/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15042.0655",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "48.82",
 			"updateon": "6/10/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15056.0339",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "49.63",
 			"updateon": "6/11/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15068.56235",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "50.37",
 			"updateon": "6/12/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15084.41115",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "51.18",
 			"updateon": "6/13/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15100.80141",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "52.17",
 			"updateon": "6/14/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15116.38712",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.22",
 			"updateon": "6/15/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15130.5449",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.25",
 			"updateon": "6/16/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15140.67741",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.43",
 			"updateon": "6/17/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15147.39849",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.55",
 			"updateon": "6/18/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15160.49648",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.71",
 			"updateon": "6/19/2019"
 		},
 		{
-			"b1-ass": "",
 			"b1-bss": "15174.19158",
-			"esu-06": "",
-			"icsolarpanel": "",
+			"icsolarpanel": "53.92",
 			"updateon": "6/20/2019"
 		}
 	]
