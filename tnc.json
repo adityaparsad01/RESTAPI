@@ -1,103 +1,143 @@
 {
 	"tnc": [
 		{
-			"b1-bss": "14922.06127",
-			"icsolarpanel": "41.32",
+			"b1-ass": "",
+			"b1bsunstation": "14922.06",
+			"esu-06": "19552.25",
+			"incomingsolarpanel": "41.32",
 			"updateon": "6/1/2019"
 		},
 		{
-			"b1-bss": "14936.11878",
-			"icsolarpanel": "42.17",
+			"b1-ass": "",
+			"b1bsunstation": "14936.12",
+			"esu-06": "19563.61",
+			"incomingsolarpanel": "42.17",
 			"updateon": "6/2/2019"
 		},
 		{
-			"b1-bss": "14949.63298",
-			"icsolarpanel": "42.94",
+			"b1-ass": "",
+			"b1bsunstation": "14949.63",
+			"esu-06": "19573.92",
+			"incomingsolarpanel": "42.94",
 			"updateon": "6/3/2019"
 		},
 		{
-			"b1-bss": "14962.92941",
-			"icsolarpanel": "43.84",
+			"b1-ass": "",
+			"b1bsunstation": "14962.93",
+			"esu-06": "19584.30",
+			"incomingsolarpanel": "43.84",
 			"updateon": "6/4/2019"
 		},
 		{
-			"b1-bss": "14975.71541",
-			"icsolarpanel": "44.71",
+			"b1-ass": "",
+			"b1bsunstation": "14975.72",
+			"esu-06": "19594.97",
+			"incomingsolarpanel": "44.71",
 			"updateon": "6/5/2019"
 		},
 		{
-			"b1-bss": "14988.67707",
-			"icsolarpanel": "45.50",
+			"b1-ass": "",
+			"b1bsunstation": "14988.68",
+			"esu-06": "19605.68",
+			"incomingsolarpanel": "45.50",
 			"updateon": "6/6/2019"
 		},
 		{
-			"b1-bss": "15000.79049",
-			"icsolarpanel": "46.39",
+			"b1-ass": "",
+			"b1bsunstation": "15000.79",
+			"esu-06": "19617.29",
+			"incomingsolarpanel": "46.39",
 			"updateon": "6/7/2019"
 		},
 		{
-			"b1-bss": "15014.32673",
-			"icsolarpanel": "47.21",
+			"b1-ass": "",
+			"b1bsunstation": "15014.33",
+			"esu-06": "19627.69",
+			"incomingsolarpanel": "47.21",
 			"updateon": "6/8/2019"
 		},
 		{
-			"b1-bss": "15028.33046",
-			"icsolarpanel": "48.03",
+			"b1-ass": "",
+			"b1bsunstation": "15028.33",
+			"esu-06": "19639.20",
+			"incomingsolarpanel": "48.03",
 			"updateon": "6/9/2019"
 		},
 		{
-			"b1-bss": "15042.0655",
-			"icsolarpanel": "48.82",
+			"b1-ass": "",
+			"b1bsunstation": "15042.07",
+			"esu-06": "19649.44",
+			"incomingsolarpanel": "48.82",
 			"updateon": "6/10/2019"
 		},
 		{
-			"b1-bss": "15056.0339",
-			"icsolarpanel": "49.63",
+			"b1-ass": "",
+			"b1bsunstation": "15056.03",
+			"esu-06": "19661.12",
+			"incomingsolarpanel": "49.63",
 			"updateon": "6/11/2019"
 		},
 		{
-			"b1-bss": "15068.56235",
-			"icsolarpanel": "50.37",
+			"b1-ass": "",
+			"b1bsunstation": "15068.56",
+			"esu-06": "19672.67",
+			"incomingsolarpanel": "50.37",
 			"updateon": "6/12/2019"
 		},
 		{
-			"b1-bss": "15084.41115",
-			"icsolarpanel": "51.18",
+			"b1-ass": "",
+			"b1bsunstation": "15084.41",
+			"esu-06": "19683.23",
+			"incomingsolarpanel": "51.18",
 			"updateon": "6/13/2019"
 		},
 		{
-			"b1-bss": "15100.80141",
-			"icsolarpanel": "52.17",
+			"b1-ass": "",
+			"b1bsunstation": "15100.80",
+			"esu-06": "19695.75",
+			"incomingsolarpanel": "52.17",
 			"updateon": "6/14/2019"
 		},
 		{
-			"b1-bss": "15116.38712",
-			"icsolarpanel": "53.22",
+			"b1-ass": "",
+			"b1bsunstation": "15116.39",
+			"esu-06": "19704.05",
+			"incomingsolarpanel": "53.22",
 			"updateon": "6/15/2019"
 		},
 		{
-			"b1-bss": "15130.5449",
-			"icsolarpanel": "53.25",
+			"b1-ass": "",
+			"b1bsunstation": "15130.54",
+			"esu-06": "19714.26",
+			"incomingsolarpanel": "53.25",
 			"updateon": "6/16/2019"
 		},
 		{
-			"b1-bss": "15140.67741",
-			"icsolarpanel": "53.43",
+			"b1-ass": "",
+			"b1bsunstation": "15140.68",
+			"esu-06": "19724.26",
+			"incomingsolarpanel": "53.43",
 			"updateon": "6/17/2019"
 		},
 		{
-			"b1-bss": "15147.39849",
-			"icsolarpanel": "53.55",
+			"b1-ass": "",
+			"b1bsunstation": "15147.40",
+			"esu-06": "19734.42",
+			"incomingsolarpanel": "53.55",
 			"updateon": "6/18/2019"
 		},
 		{
-			"b1-bss": "15160.49648",
-			"icsolarpanel": "53.71",
+			"b1-ass": "",
+			"b1bsunstation": "15160.50",
+			"esu-06": "19744.06",
+			"incomingsolarpanel": "53.71",
 			"updateon": "6/19/2019"
 		},
 		{
-			"b1-bss": "15174.19158",
-			"icsolarpanel": "53.92",
+			"b1-ass": "",
+			"b1bsunstation": "15174.19",
+			"esu-06": "19754.98",
+			"incomingsolarpanel": "53.92",
 			"updateon": "6/20/2019"
 		}
 	]
