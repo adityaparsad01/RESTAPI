@@ -1,144 +1,144 @@
 {
 	"tnc": [
 		{
-			"b1asubstationincomer": "29963.53",
-			"b1bsunstation": "14922.06",
-			"esu06incomer": "19552.25",
-			"incomingsolarpanel": "41.32",
-			"updateon": "6/1/2019"
+			"b1a": "29963.53",
+			"b1b": "14922.06",
+			"date": "6/1/2019",
+			"esu06": "19552.25",
+			"incomingsolarpanel": "41.32"
 		},
 		{
-			"b1asubstationincomer": "29980.43",
-			"b1bsunstation": "14936.12",
-			"esu06incomer": "19563.61",
-			"incomingsolarpanel": "42.17",
-			"updateon": "6/2/2019"
+			"b1a": "29980.43",
+			"b1b": "14936.12",
+			"date": "6/2/2019",
+			"esu06": "19563.61",
+			"incomingsolarpanel": "42.17"
 		},
 		{
-			"b1asubstationincomer": "29996.07",
-			"b1bsunstation": "14949.63",
-			"esu06incomer": "19573.92",
-			"incomingsolarpanel": "42.94",
-			"updateon": "6/3/2019"
+			"b1a": "29996.07",
+			"b1b": "14949.63",
+			"date": "6/3/2019",
+			"esu06": "19573.92",
+			"incomingsolarpanel": "42.94"
 		},
 		{
-			"b1asubstationincomer": "30014.90",
-			"b1bsunstation": "14962.93",
-			"esu06incomer": "19584.30",
-			"incomingsolarpanel": "43.84",
-			"updateon": "6/4/2019"
+			"b1a": "30014.90",
+			"b1b": "14962.93",
+			"date": "6/4/2019",
+			"esu06": "19584.30",
+			"incomingsolarpanel": "43.84"
 		},
 		{
-			"b1asubstationincomer": "30035.90",
-			"b1bsunstation": "14975.72",
-			"esu06incomer": "19594.97",
-			"incomingsolarpanel": "44.71",
-			"updateon": "6/5/2019"
+			"b1a": "30035.90",
+			"b1b": "14975.72",
+			"date": "6/5/2019",
+			"esu06": "19594.97",
+			"incomingsolarpanel": "44.71"
 		},
 		{
-			"b1asubstationincomer": "30053.07",
-			"b1bsunstation": "14988.68",
-			"esu06incomer": "19605.68",
-			"incomingsolarpanel": "45.50",
-			"updateon": "6/6/2019"
+			"b1a": "30053.07",
+			"b1b": "14988.68",
+			"date": "6/6/2019",
+			"esu06": "19605.68",
+			"incomingsolarpanel": "45.50"
 		},
 		{
-			"b1asubstationincomer": "30075.63",
-			"b1bsunstation": "15000.79",
-			"esu06incomer": "19617.29",
-			"incomingsolarpanel": "46.39",
-			"updateon": "6/7/2019"
+			"b1a": "30075.63",
+			"b1b": "15000.79",
+			"date": "6/7/2019",
+			"esu06": "19617.29",
+			"incomingsolarpanel": "46.39"
 		},
 		{
-			"b1asubstationincomer": "30097.98",
-			"b1bsunstation": "15014.33",
-			"esu06incomer": "19627.69",
-			"incomingsolarpanel": "47.21",
-			"updateon": "6/8/2019"
+			"b1a": "30097.98",
+			"b1b": "15014.33",
+			"date": "6/8/2019",
+			"esu06": "19627.69",
+			"incomingsolarpanel": "47.21"
 		},
 		{
-			"b1asubstationincomer": "30118.59",
-			"b1bsunstation": "15028.33",
-			"esu06incomer": "19639.20",
-			"incomingsolarpanel": "48.03",
-			"updateon": "6/9/2019"
+			"b1a": "30118.59",
+			"b1b": "15028.33",
+			"date": "6/9/2019",
+			"esu06": "19639.20",
+			"incomingsolarpanel": "48.03"
 		},
 		{
-			"b1asubstationincomer": "30137.76",
-			"b1bsunstation": "15042.07",
-			"esu06incomer": "19649.44",
-			"incomingsolarpanel": "48.82",
-			"updateon": "6/10/2019"
+			"b1a": "30137.76",
+			"b1b": "15042.07",
+			"date": "6/10/2019",
+			"esu06": "19649.44",
+			"incomingsolarpanel": "48.82"
 		},
 		{
-			"b1asubstationincomer": "30163.79",
-			"b1bsunstation": "15056.03",
-			"esu06incomer": "19661.12",
-			"incomingsolarpanel": "49.63",
-			"updateon": "6/11/2019"
+			"b1a": "30163.79",
+			"b1b": "15056.03",
+			"date": "6/11/2019",
+			"esu06": "19661.12",
+			"incomingsolarpanel": "49.63"
 		},
 		{
-			"b1asubstationincomer": "30187.38",
-			"b1bsunstation": "15068.56",
-			"esu06incomer": "19672.67",
-			"incomingsolarpanel": "50.37",
-			"updateon": "6/12/2019"
+			"b1a": "30187.38",
+			"b1b": "15068.56",
+			"date": "6/12/2019",
+			"esu06": "19672.67",
+			"incomingsolarpanel": "50.37"
 		},
 		{
-			"b1asubstationincomer": "30210.55",
-			"b1bsunstation": "15084.41",
-			"esu06incomer": "19683.23",
-			"incomingsolarpanel": "51.18",
-			"updateon": "6/13/2019"
+			"b1a": "30210.55",
+			"b1b": "15084.41",
+			"date": "6/13/2019",
+			"esu06": "19683.23",
+			"incomingsolarpanel": "51.18"
 		},
 		{
-			"b1asubstationincomer": "30223.46",
-			"b1bsunstation": "15100.80",
-			"esu06incomer": "19695.75",
-			"incomingsolarpanel": "52.17",
-			"updateon": "6/14/2019"
+			"b1a": "30223.46",
+			"b1b": "15100.80",
+			"date": "6/14/2019",
+			"esu06": "19695.75",
+			"incomingsolarpanel": "52.17"
 		},
 		{
-			"b1asubstationincomer": "30244.07",
-			"b1bsunstation": "15116.39",
-			"esu06incomer": "19704.05",
-			"incomingsolarpanel": "53.22",
-			"updateon": "6/15/2019"
+			"b1a": "30244.07",
+			"b1b": "15116.39",
+			"date": "6/15/2019",
+			"esu06": "19704.05",
+			"incomingsolarpanel": "53.22"
 		},
 		{
-			"b1asubstationincomer": "30260.97",
-			"b1bsunstation": "15130.54",
-			"esu06incomer": "19714.26",
-			"incomingsolarpanel": "53.25",
-			"updateon": "6/16/2019"
+			"b1a": "30260.97",
+			"b1b": "15130.54",
+			"date": "6/16/2019",
+			"esu06": "19714.26",
+			"incomingsolarpanel": "53.25"
 		},
 		{
-			"b1asubstationincomer": "30276.41",
-			"b1bsunstation": "15140.68",
-			"esu06incomer": "19724.26",
-			"incomingsolarpanel": "53.43",
-			"updateon": "6/17/2019"
+			"b1a": "30276.41",
+			"b1b": "15140.68",
+			"date": "6/17/2019",
+			"esu06": "19724.26",
+			"incomingsolarpanel": "53.43"
 		},
 		{
-			"b1asubstationincomer": "30290.75",
-			"b1bsunstation": "15147.40",
-			"esu06incomer": "19734.42",
-			"incomingsolarpanel": "53.55",
-			"updateon": "6/18/2019"
+			"b1a": "30290.75",
+			"b1b": "15147.40",
+			"date": "6/18/2019",
+			"esu06": "19734.42",
+			"incomingsolarpanel": "53.55"
 		},
 		{
-			"b1asubstationincomer": "30302.33",
-			"b1bsunstation": "15160.50",
-			"esu06incomer": "19744.06",
-			"incomingsolarpanel": "53.71",
-			"updateon": "6/19/2019"
+			"b1a": "30302.33",
+			"b1b": "15160.50",
+			"date": "6/19/2019",
+			"esu06": "19744.06",
+			"incomingsolarpanel": "53.71"
 		},
 		{
-			"b1asubstationincomer": "30317.17",
-			"b1bsunstation": "15174.19",
-			"esu06incomer": "19754.98",
-			"incomingsolarpanel": "53.92",
-			"updateon": "6/20/2019"
+			"b1a": "30317.17",
+			"b1b": "15174.19",
+			"date": "6/20/2019",
+			"esu06": "19754.98",
+			"incomingsolarpanel": "53.92"
 		}
 	]
 }
