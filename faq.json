@@ -21,7 +21,7 @@
 			"question": "who is your best friend"
 		},
 		{
-			"answer": "on  21 may",
+			"answer": "on  21 may 2020",
 			"qno": "5",
 			"question": "when you buy scooty"
 		},
@@ -29,6 +29,11 @@
 			"answer": "on 23 may 2020",
 			"qno": "6",
 			"question": "when I learn GitHub action."
+		},
+		{
+			"answer": "Facebook",
+			"qno": "7",
+			"question": "Where you went to work in future"
 		}
 	]
 }
