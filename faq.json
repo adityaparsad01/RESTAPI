@@ -1,39 +1,39 @@
 {
 	"faq": [
 		{
-			"answer": "my name is aditya",
+			"answer": "my name is aditya.",
 			"qno": "1",
-			"question": "what is your name"
+			"question": "what is your name?"
 		},
 		{
-			"answer": "I am from delhi",
+			"answer": "I am from delhi.",
 			"qno": "2",
-			"question": "where are you from"
+			"question": "where are you from?"
 		},
 		{
 			"answer": "currently I am learning Reactjs.",
 			"qno": "3",
-			"question": "what you learn"
+			"question": "what you learn?"
 		},
 		{
-			"answer": "amam Arora is my best friend",
+			"answer": "amam Arora is my best friend.",
 			"qno": "4",
-			"question": "who is your best friend"
+			"question": "who is your best friend?"
 		},
 		{
-			"answer": "on  21 may 2020",
+			"answer": "on  21 may 2020.",
 			"qno": "5",
-			"question": "when you buy scooty"
+			"question": "when you buy scooty?"
 		},
 		{
-			"answer": "on 23 may 2020",
+			"answer": "on 23 may 2020.",
 			"qno": "6",
-			"question": "when I learn GitHub action."
+			"question": "when I learn GitHub action?"
 		},
 		{
-			"answer": "Facebook",
+			"answer": "Facebook.",
 			"qno": "7",
-			"question": "Where you went to work in future"
+			"question": "Where you went to work in future?"
 		}
 	]
 }
