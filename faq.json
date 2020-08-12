@@ -34,6 +34,11 @@
 			"answer": "Facebook.",
 			"qno": "7",
 			"question": "Where you went to work in future?"
+		},
+		{
+			"answer": "On 12th August 2020",
+			"qno": "8",
+			"question": "When I Learn JavaScript Map Function"
 		}
 	]
 }
