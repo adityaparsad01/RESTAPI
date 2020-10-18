@@ -21,12 +21,12 @@
 			"question": "who is your best friend?"
 		},
 		{
-			"answer": "on  21 may 2020.",
+			"answer": "on  21st may 2020.",
 			"qno": "5",
 			"question": "when you buy scooty?"
 		},
 		{
-			"answer": "on 23 may 2020.",
+			"answer": "on 23rd may 2020.",
 			"qno": "6",
 			"question": "when I learn GitHub action?"
 		},
@@ -39,6 +39,11 @@
 			"answer": "On 12th August 2020",
 			"qno": "8",
 			"question": "When I Learn JavaScript Map Function?"
+		},
+		{
+			"answer": "On 18th October 2020",
+			"qno": "9",
+			"question": "maximum no of Tie(SuperOver) in IPL in One Day?"
 		}
 	]
 }
